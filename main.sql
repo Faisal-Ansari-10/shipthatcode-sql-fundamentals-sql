@@ -13,4 +13,4 @@ INSERT INTO mountains(name, height_m) VALUES ('Kangchenjunga', 8586);
 SELECT name
 FROM mountains
 ORDER BY height_m DESC, name ASC
-LIMIT 3
+LIMIT 3;
